@@ -45,11 +45,11 @@ CRT Layout v2|![3](.misc/Fox%20Junction%20(Japan)_CRT_zoom.png)|![4](.misc/Fox%2
  |-Nothing-|Blargg NTSC SNES
 :--|---|---
 -Nothing-|![1](.misc/Shinsetsu%20Samurai%20Spirits%20-%20Bushidou%20Retsuden%20(J).png)|![2](.misc/Shinsetsu%20Samurai%20Spirits%20-%20Bushidou%20Retsuden%20(J)_NTSC.png)
-CRT Layout v4|![3](.misc/Shinsetsu%20Samurai%20Spirits%20-%20Bushidou%20Retsuden%20(J)_CRT.png)|![4](.misc/Shinsetsu%20Samurai%20Spirits%20-%20Bushidou%20Retsuden%20(J)_CRT+NTSC.png)
+CRT Layout v2|![3](.misc/Shinsetsu%20Samurai%20Spirits%20-%20Bushidou%20Retsuden%20(J)_CRT.png)|![4](.misc/Shinsetsu%20Samurai%20Spirits%20-%20Bushidou%20Retsuden%20(J)_CRT+NTSC.png)
 
  |Picoscale bl4
 :--|---
--Nothing-|![1](.misc/Shinsetsu%20Samurai%20Spirits%20-%20Bushidou%20Retsuden%20(J)_CRTv4%2BPicoscale_bl4.png)
+CRT Layout v4|![1](.misc/Shinsetsu%20Samurai%20Spirits%20-%20Bushidou%20Retsuden%20(J)_CRTv4%2BPicoscale_bl4.png)
 
  |-Nothing-|Blargg NTSC SNES
 :--|---|---
