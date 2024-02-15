@@ -29,9 +29,18 @@ CRT Layout|![3](.misc/Fox%20Junction%20(Japan)_CRT.png)|![4](.misc/Fox%20Junctio
 CRT Layout|![3](.misc/Shinsetsu%20Samurai%20Spirits%20-%20Bushidou%20Retsuden%20(J)_CRT.png)|![4](.misc/Shinsetsu%20Samurai%20Spirits%20-%20Bushidou%20Retsuden%20(J)_CRT+NTSC.png)
 
 ## Changes:
-- Replaced wrong filter's .filt file.
-- The .png layout file is still v,2.
-- Compared to original v.1 the frame is smoother and the .psd and .xcf files ware extended to have more customization.
+- Replaced wrong filter's `.filt` file.
+- v2 is smoother and the `.psd` and `.xcf` files ware extended to have more customization.
+- v3 is crt patter customization improvement.
+- v4 is crt patter x2 the size of v3 (bigger pixel density on MM+ screen).
+
+### Note:
+- `.filt` is not compatible with all system, like:
+- - GBA
+- - GG
+- - PSX
+
+(It is a thing with how original `.so` works. If someone has a way to fix it please inform as an Issue)
 
 ## Useful resources:
 - https://github.com/CyberLabSystems/CyberLab-Custom-Blargg-NTSC-Video-Filter-Presets/releases
