@@ -28,6 +28,11 @@ CRT Layout|![3](.misc/Fox%20Junction%20(Japan)_CRT.png)|![4](.misc/Fox%20Junctio
 -Nothing-|![1](.misc/Shinsetsu%20Samurai%20Spirits%20-%20Bushidou%20Retsuden%20(J).png)|![2](.misc/Shinsetsu%20Samurai%20Spirits%20-%20Bushidou%20Retsuden%20(J)_NTSC.png)
 CRT Layout|![3](.misc/Shinsetsu%20Samurai%20Spirits%20-%20Bushidou%20Retsuden%20(J)_CRT.png)|![4](.misc/Shinsetsu%20Samurai%20Spirits%20-%20Bushidou%20Retsuden%20(J)_CRT+NTSC.png)
 
+## Changes:
+- Replaced wrong filter's .filt file.
+- The .png layout file is still v,2.
+- Compared to original v.1 the frame is smoother and the .psd and .xcf files ware extended to have more customization.
+
 ## Useful resources:
 - https://github.com/CyberLabSystems/CyberLab-Custom-Blargg-NTSC-Video-Filter-Presets/releases
 - https://github.com/drkhrse/drkhrse_miyoo_bezels/releases
