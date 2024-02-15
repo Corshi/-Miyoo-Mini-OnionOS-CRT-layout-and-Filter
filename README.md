@@ -7,7 +7,7 @@ What I did was:
 - Added smoothing bloor to frame png.
 - Create `.filt` edit to `.so` filter, to prevent resolution change.
 - New CRT `.png` pattern done by hand, using this as a reference:
-- - ![](.misc/CRT_screen_closeup-refrence.png)
+  - ![](.misc/CRT_screen_closeup-refrence.png)
 
 ## Comparison
 *All images done while using `Bilinear Filtering`
@@ -60,9 +60,10 @@ CRT Layout v2|![3](.misc/Shinsetsu%20Samurai%20Spirits%20-%20Bushidou%20Retsuden
 
 ### Note:
 - `.filt` is not compatible with all system, like:
-- - GBA
-- - GG
-- - PSX
+  - GBA
+  - GG
+  - PSX
+  - etc.
 
 (It is a thing with how original `.so` works. If someone has a way to fix it please inform as an Issue)
 
