@@ -1,1 +1,0 @@
-Just files to set transpacency for the elements of png, to use in GIMP, PhotoShop or other
