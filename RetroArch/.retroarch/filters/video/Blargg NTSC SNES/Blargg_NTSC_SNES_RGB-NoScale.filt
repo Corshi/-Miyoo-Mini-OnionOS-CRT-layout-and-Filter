@@ -1,3 +1,3 @@
 filter = blargg_ntsc_snes
-blargg_ntsc_snes_tvtype = "RGB-NoScale"
+blargg_ntsc_snes_tvtype = "custom"
 blargg_ntsc_snes_hires_blit = 0
