@@ -63,7 +63,7 @@ CRT Layout v2|![3](.misc/Shinsetsu%20Samurai%20Spirits%20-%20Bushidou%20Retsuden
   - GBA
   - GG
   - PSX
-  - etc.
+  - *etc.*
 
 (It is a thing with how original `.so` works. If someone has a way to fix it please inform as an Issue)
 
