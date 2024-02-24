@@ -19,6 +19,25 @@ What I did was:
 ![none](.misc/A%20Very%20Super%20Mario%20World.png)|![v2](.misc/A%20Very%20Super%20Mario%20World_001.png)|![v4](.misc/A%20Very%20Super%20Mario%20World_002.png)
 ![none_zoom](.misc/A%20Very%20Super%20Mario%20World_zoom.png)|![v2_zoom](.misc/A%20Very%20Super%20Mario%20World_001_zoom.png)|![v4-zoom](.misc/A%20Very%20Super%20Mario%20World_002_zoom.png)
 
+### Shinsetsu Samurai Spirits - Bushidou Retsuden (J) [NEOGEO CD]
+ |-Nothing-|Blargg NTSC SNES
+:--|---|---
+-Nothing-|![1](.misc/Shinsetsu%20Samurai%20Spirits%20-%20Bushidou%20Retsuden%20(J).png)|![2](.misc/Shinsetsu%20Samurai%20Spirits%20-%20Bushidou%20Retsuden%20(J)_NTSC.png)
+CRT Layout v2|![3](.misc/Shinsetsu%20Samurai%20Spirits%20-%20Bushidou%20Retsuden%20(J)_CRT.png)|![4](.misc/Shinsetsu%20Samurai%20Spirits%20-%20Bushidou%20Retsuden%20(J)_CRT+NTSC.png)
+
+ |Picoscale bl4
+:--|---
+CRT Layout v4|![1](.misc/Shinsetsu%20Samurai%20Spirits%20-%20Bushidou%20Retsuden%20(J)_CRTv4%2BPicoscale_bl4.png)
+
+ |-Nothing-|Blargg NTSC SNES
+:--|---|---
+-Nothing-|![1](.misc/Shinsetsu%20Samurai%20Spirits%20-%20Bushidou%20Retsuden%20(J)_zoom.png)|![2](.misc/Shinsetsu%20Samurai%20Spirits%20-%20Bushidou%20Retsuden%20(J)_NTSC_zoom.png)
+CRT Layout v2|![3](.misc/Shinsetsu%20Samurai%20Spirits%20-%20Bushidou%20Retsuden%20(J)_CRT_zoom.png)|![4](.misc/Shinsetsu%20Samurai%20Spirits%20-%20Bushidou%20Retsuden%20(J)_CRT+NTSC_zoom.png)
+
+ |Picoscale bl4
+:--|---
+CRT Layout v4|![1](.misc/Shinsetsu%20Samurai%20Spirits%20-%20Bushidou%20Retsuden%20(J)_CRTv4%2BPicoscale_bl4_zoom.png)
+
 ### Darkwing Duck (U) [NES]
  |-Nothing-|Blargg NTSC SNES
 :--|---|---
@@ -40,25 +59,6 @@ CRT Layout v2|![3](.misc/Fox%20Junction%20(Japan)_CRT.png)|![4](.misc/Fox%20Junc
 :--|---|---
 -Nothing-|![1](.misc/Fox%20Junction%20(Japan)_zoom.png)|![2](.misc/Fox%20Junction%20(Japan)_NTSC_zoom.png)
 CRT Layout v2|![3](.misc/Fox%20Junction%20(Japan)_CRT_zoom.png)|![4](.misc/Fox%20Junction%20(Japan)_CRT+NTSC_zoom.png)
-
-### Shinsetsu Samurai Spirits - Bushidou Retsuden (J) [NEOGEO CD]
- |-Nothing-|Blargg NTSC SNES
-:--|---|---
--Nothing-|![1](.misc/Shinsetsu%20Samurai%20Spirits%20-%20Bushidou%20Retsuden%20(J).png)|![2](.misc/Shinsetsu%20Samurai%20Spirits%20-%20Bushidou%20Retsuden%20(J)_NTSC.png)
-CRT Layout v2|![3](.misc/Shinsetsu%20Samurai%20Spirits%20-%20Bushidou%20Retsuden%20(J)_CRT.png)|![4](.misc/Shinsetsu%20Samurai%20Spirits%20-%20Bushidou%20Retsuden%20(J)_CRT+NTSC.png)
-
- |Picoscale bl4
-:--|---
-CRT Layout v4|![1](.misc/Shinsetsu%20Samurai%20Spirits%20-%20Bushidou%20Retsuden%20(J)_CRTv4%2BPicoscale_bl4.png)
-
- |-Nothing-|Blargg NTSC SNES
-:--|---|---
--Nothing-|![1](.misc/Shinsetsu%20Samurai%20Spirits%20-%20Bushidou%20Retsuden%20(J)_zoom.png)|![2](.misc/Shinsetsu%20Samurai%20Spirits%20-%20Bushidou%20Retsuden%20(J)_NTSC_zoom.png)
-CRT Layout v2|![3](.misc/Shinsetsu%20Samurai%20Spirits%20-%20Bushidou%20Retsuden%20(J)_CRT_zoom.png)|![4](.misc/Shinsetsu%20Samurai%20Spirits%20-%20Bushidou%20Retsuden%20(J)_CRT+NTSC_zoom.png)
-
- |Picoscale bl4
-:--|---
-CRT Layout v4|![1](.misc/Shinsetsu%20Samurai%20Spirits%20-%20Bushidou%20Retsuden%20(J)_CRTv4%2BPicoscale_bl4_zoom.png)
 
 ## Changes:
 - Replaced wrong filter's `.filt` file.
